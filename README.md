@@ -5,15 +5,11 @@ This project leverages TensorFlow, Keras-Facenet, and MTCNN for facial feature e
 
 **Features:**
 
-Real-time face detection and recognition
-
-Automatic attendance logging in Excel
-
-Voice feedback using pyttsx3
-
-User-friendly UI with ttkbootstrap
-
-Easy to configure and extend
+- Real-time face detection and recognition
+- Automatic attendance logging in Excel
+- Voice feedback using pyttsx3
+- User-friendly UI with ttkbootstrap
+- Easy to configure and extend
 
 
 **how to run?**
@@ -27,7 +23,7 @@ cd Face-Recognition-Attendance-RMCS
 
 pip install opencv-python numpy Pillow pandas openpyxl pyttsx3 matplotlib ttkbootstrap keras-facenet mtcnn scipy tensorflow
 
-3. How to Run
+3. Run app
 
 python recognize_and_attend.py
 
