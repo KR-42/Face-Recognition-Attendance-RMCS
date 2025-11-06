@@ -17,11 +17,13 @@ This project leverages TensorFlow, Keras-Facenet, and MTCNN for facial feature e
 1️. Clone the Repository
 
 git clone https://github.com/KR-42/Face-Recognition-Attendance-RMCS.git
+
 cd Face-Recognition-Attendance-RMCS
 
 2️. Install Required Dependencies
 
 pip install opencv-python numpy Pillow pandas openpyxl pyttsx3 matplotlib ttkbootstrap keras-facenet mtcnn scipy tensorflow
+
 
 3. Run app
 
