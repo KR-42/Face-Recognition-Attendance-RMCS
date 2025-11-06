@@ -1,9 +1,9 @@
-Face Recognition Attendance System (RMCS)
+**Face Recognition Attendance System (RMCS)**
 
 A smart attendance system that uses face recognition technology to automatically detect and record student presence in real-time using a webcam.
 This project leverages TensorFlow, Keras-Facenet, and MTCNN for facial feature extraction and matching.
 
-Features
+**Features:**
 
 Real-time face detection and recognition
 
@@ -16,7 +16,7 @@ User-friendly UI with ttkbootstrap
 Easy to configure and extend
 
 
-how to run?
+**how to run?**
 
 1️. Clone the Repository
 
