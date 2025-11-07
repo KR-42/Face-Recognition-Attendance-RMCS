@@ -29,3 +29,21 @@ pip install opencv-python numpy Pillow pandas openpyxl pyttsx3 matplotlib ttkboo
 
 python recognize_and_attend.py
 
+
+
+**Admin Menu – Register New Face**
+To register a new face, follow these steps:
+
+
+1. Run the application using the command above.
+
+2. On the main interface, go to the Admin Menu.
+
+3. Enter the admin password: admin123.
+
+4. You will then be able to register new faces by capturing images through the webcam.
+
+5. Once registered, the new faces will be automatically recognized in attendance mode.
+
+⚠️ ***Make sure the lighting is good and the face is clearly visible when registering.***
+
