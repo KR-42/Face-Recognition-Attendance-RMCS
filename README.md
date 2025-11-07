@@ -32,6 +32,7 @@ python recognize_and_attend.py
 
 
 **Admin Menu – Register New Face**
+
 To register a new face, follow these steps:
 
 
